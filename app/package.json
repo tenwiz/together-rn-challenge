@@ -13,7 +13,7 @@
     "@types/react-native-sortable-grid": "^2.0.2",
     "axios": "^0.19.2",
     "react": "16.13.1",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-sortable-grid": "^2.0.0",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5"
